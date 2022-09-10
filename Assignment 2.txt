@@ -1,0 +1,25 @@
+Relationship between mean,median,mode in right skew(+ve skew)
+mean>median>mode
+
+eg: From right skew graph as we can see most frequent data lies in left side that
+will be mode value (extreme left)(quick glance through graph)
+
+This can be seen through considering data set as well
+class interval[0-10, 10-20,20-30, 30-40, 40-50, 50-60, 60-70]
+frequency[5,15,40,25,20,10,5]
+upon calculation
+mean= 32.5  median= 30  mode=26.5
+
+
+Relationship between mean,median,mode in left skew(+ve skew)
+mean<median<mode
+
+eg: From left skew graph most frequent data lies in extreme right hence mode 
+value is at extreme right greater value (quick glance through graph)
+
+This can be seen through considering data set as well
+class interval[0-10, 10-20,20-30, 30-40, 40-50, 50-60, 60-70]
+frequency[5,10,20,25,40,15,5]
+mean= 37.5 median= 40  mode=43.5
+upon calculation
+
